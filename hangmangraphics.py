@@ -33,7 +33,7 @@ def draw_hangman(lives):
         print(" _______")
         print("|       |")
         print("|       O")
-        print("|      \\|")
+        print("|      \|")
         print("|")
         print("|")
         print("|")
